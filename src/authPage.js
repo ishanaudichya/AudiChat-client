@@ -94,6 +94,8 @@ const AuthPage = (props) => {
       />
       <button type="submit" className="action-button">SIGN UP</button>
     </form>
+    
+    <div className="sign">Made with ♥ by Ishan Audichya</div>
   </div>
 
   <style>{`
@@ -104,6 +106,9 @@ const AuthPage = (props) => {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.sign{
+  padding-top: 30px;
 }
 
 .alogo {
