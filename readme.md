@@ -1,8 +1,13 @@
 # AudiChat - Real-time Chat App
 
-AudiChat is a real-time chat application that allows users to seamlessly communicate with each other. Whether you want to connect with friends, family, or colleagues, AudiChat provides a user-friendly interface for chatting, sharing images and videos, and ensuring your messages are delivered and read.
+![ 2Preview](/example/4.png)
+<br>
 
-![AudiChat Preview](/example/1.png)
+
+<a href="https://audi-chat.netlify.app/">AudiChat </a>is a real-time chat application that allows users to seamlessly communicate with each other. Whether you want to connect with friends, family, or colleagues, AudiChat provides a user-friendly interface for chatting, sharing images and videos, and ensuring your messages are delivered and read.
+
+Link to website => https://audi-chat.netlify.app/ <br>
+Backend server hosted on => https://chatapp-server-jlp7.onrender.com/
 
 ## Features
 
@@ -14,7 +19,7 @@ AudiChat is a real-time chat application that allows users to seamlessly communi
 
 ## Technologies Used
 
-- **Front**:
+- **Front**:React.js
 - **Backend**: Node.js, Express.js
 - **Real-time Messaging**: ChatEngine
 - **Authentication**: JWT 
@@ -32,9 +37,9 @@ AudiChat is a real-time chat application that allows users to seamlessly communi
 6. Also add new users from the list
 7. Text messages delivered are denoted by 🔵 and read by 🟣
 
-![ 1Preview](/example/2.png)
-://
 
+![AudiChat Preview](/example/1.png)
+![ 1Preview](/example/2.png)
 ![ 2Preview](/example/3.png)
 
 
