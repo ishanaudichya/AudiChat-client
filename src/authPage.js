@@ -95,7 +95,7 @@ const AuthPage = (props) => {
       <button type="submit" className="action-button">SIGN UP</button>
     </form>
     
-    <div className="sign">Please wait a few secs after pressing login<br></br>Backend server boots in 10 secs<br></br><br></br>Made with ♥ by Ishan Audichya</div>
+    <div className="sign">Please wait a few secs after pressing login<br></br>Backend server boots in 10 secs<br></br><br></br>Made with ♥ by <a href="https://github.com/ishanaudichya/AudiChat-client">Ishan Audichya</a></div>
   </div>
 
   <style>{`

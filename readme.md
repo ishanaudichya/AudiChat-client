@@ -8,7 +8,7 @@
 
 Link to website => https://audi-chat.netlify.app/ <br>
 Backend server hosted on => https://chatapp-server-jlp7.onrender.com/
-
+### Imp!!! -  make sure to wait for some time after pressing login, backend server is booted as soon as there is request and takes a few seconds 
 ## Features
 
 - User Registration: Create a new account to start using AudiChat or sign in if you already have an account.
